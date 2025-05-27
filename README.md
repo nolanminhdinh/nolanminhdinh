@@ -49,7 +49,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </a>
 <a href="https://matplotlib.org/" target="_blank">
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.png" alt="Matplotlib" width="40" height="40"/>
+  <img src="[https://matplotlib.org/stable/_static/logo2_compressed.png](https://matplotlib.org/stable/_static/logo2_compressed.png)" alt="Matplotlib" width="40" height="40"/>
 </a>
 
 <!-- GIS & Backend -->
