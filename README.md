@@ -2,18 +2,25 @@
 <h3 align="center">🎓 Data Science Student at Hanoi University of Mining and Geology (HUMG)</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2f/71/d5/2f71d53217b6cf5c5d84444203ae7e07.gif" alt="Data Science" width="400"/>
+  <img src="https://i.pinimg.com/originals/2f/71/d5/2f71d53217b6cf5c5d84444203ae7e07.gif" alt="Data Science Animation" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=18C2ED&center=true&vCenter=true&width=900&lines=Turning%20data%20into%20insight%2C%20and%20insight%20into%20action." alt="Typing SVG" />
 </p>
 
 ---
 
-- 🔭 **Majoring in:** Data Science
-- 🎯 **Seeking:** Internship or job as a **Data Analyst** or related fields
+### 🔎 About Me
+
+- 🔭 **Majoring in:** Data Science  
+- 🎯 **Seeking:** Internship or job as a **Data Analyst** or related fields  
 - 📫 **Contact:** congminh311204@gmail.com
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
+### 🌐 Connect with Me
+
 <p align="left">
   <a href="https://www.facebook.com/nolanminh204" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
@@ -21,14 +28,15 @@
   <a href="https://www.instagram.com/minhdtusuky/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-   <a href="https://www.linkedin.com/in/%C4%91inh-c%C3%B4ng-minh-1ab37b317/" target="_blank">
+  <a href="https://www.linkedin.com/in/%C4%91inh-c%C3%B4ng-minh-1ab37b317/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+### 🛠️ Languages & Tools
+
 <p align="left">
   <!-- Programming -->
   <a href="https://www.python.org" target="_blank">
@@ -65,14 +73,9 @@
 
 ---
 
-<h3 align="left">📈 GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nolanminhdinh&show_icons=true&theme=tokyonight" alt="nolanminhdinh's GitHub stats" width="410"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolanminhdinh&layout=compact&theme=tokyonight" alt="Top Languages" width="340"/>
-</p>
-
----
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=18C2ED&center=true&vCenter=true&width=900&lines=Turning+data+into+insight+and+insight+into+action." alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nolanminhdinh&show_icons=true&theme=tokyonight" alt="nolanminhdinh's GitHub stats" width="410"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolanminhdinh&layout=compact&theme=tokyonight" alt="Top Languages" width="340"/>
 </p>
