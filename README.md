@@ -13,7 +13,7 @@
 
 ### 🔎 About Me
 
-- 🔭 **Majoring in:** Data Science  
+- 🔭 **Student majoring in:** Data Science  
 - 🎯 **Seeking:** Internship or job as a **Data Analyst** or related fields  
 - 📫 **Contact:** congminh311204@gmail.com
 
