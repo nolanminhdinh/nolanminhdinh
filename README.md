@@ -2,7 +2,7 @@
 <h3 align="center">🎓 Data Science Student at Hanoi University of Mining and Geology (HUMG)</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/4e/53/8d/4e538d7be8890516eebb5f30dc0b2a85.jpg" alt="Data Science" width="400"/>
+  <img src="https://i.pinimg.com/originals/45/67/a8/4567a837b545d22b9dcde81ccd98b70e.gif" alt="Data Science" width="400"/>
 </p>
 
 ---
