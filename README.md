@@ -1,11 +1,35 @@
-<h1 align="center">Hi 👋, I'm Đinh Công Minh</h1>
-<h3 align="center">✍ I'm a student of: Hanoi University of Mining and Geology (HUMG)</h3>
-<img align="right" alt="Coding" width="400" src="https://scontent.cdninstagram.com/v/t51.2885-19/434656168_3687728951440853_3658014466431016105_n.jpg?stp=dst-jpg_s640x640&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_ohc=n1pt2SFve1MQ7kNvgGy1k20&edm=APs17CUBAAAA&ccb=7-5&oh=00_AYDql3b1Z6MiiThr5ZH3mu2xUDYrJKhyogjWcAxkL-ba9Q&oe=665A702B&_nc_sid=10d13b">
+<h1 align="center">Hi 👋, I'm [Tên của bạn]</h1>
+<h3 align="center">A passionate developer and learner from Vietnam</h3>
 
-- 🔭 I'm a student majoring in **Data Science**
-- 👯 I’m looking to collaborate on **Python**
-- 🤝 I’m looking for help with **NLP**
-- 📫 How to reach me **congminh311204@gmail.com**
+- 🔭 I’m currently working on **SmartCalories**, a nutrition tracking app with FastAPI
+
+- 🌱 I’m currently learning **Machine Learning, Big Data, GIS, and System Analysis**
+
+- 🧪 I’m experimenting with **QGIS, MongoDB, FastAPI, TailwindCSS**
+
+- 📫 How to reach me: **[email@example.com]**
+
+- 📄 Know about my experiences: [My CV/Portfolio](https://your-portfolio-link.com)
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" width="48%" />
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
