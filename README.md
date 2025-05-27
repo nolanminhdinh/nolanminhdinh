@@ -30,9 +30,15 @@
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
   <!-- Web and Programming -->
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+
+<!-- GIS & Backend -->
+<a href="https://www.qgis.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="QGIS" width="40" height="40"/>
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+</a>
 
   <!-- Big Data & Database -->
   <a href="https://hadoop.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Hadoop" width="40" height="40"/></a>
@@ -50,12 +56,4 @@
 </a>
 <a href="https://matplotlib.org/" target="_blank">
   <img src="[https://matplotlib.org/stable/_static/logo2_compressed.png](https://matplotlib.org/stable/_static/logo2_compressed.png)" alt="Matplotlib" width="40" height="40"/>
-</a>
-
-<!-- GIS & Backend -->
-<a href="https://www.qgis.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="QGIS" width="40" height="40"/>
-</a>
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
 </a>
