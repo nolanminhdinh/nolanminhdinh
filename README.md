@@ -2,8 +2,9 @@
 <h3 align="center">✍ I'm a student of Hanoi University of Mining and Geology (HUMG)</h3>
 
 <p align="center">
-  <img align="center" alt="Coding" width="400" src="https://scontent.cdninstagram.com/v/t51.2885-19/434656168_3687728951440853_3658014466431016105_n.jpg?stp=dst-jpg_s640x640&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_ohc=n1pt2SFve1MQ7kNvgGy1k20&edm=APs17CUBAAAA&ccb=7-5&oh=00_AYDql3b1Z6MiiThr5ZH3mu2xUDYrJKhyogjWcAxkL-ba9Q&oe=665A702B&_nc_sid=10d13b">
+  <img src="https://media.giphy.com/media/fvk1gJz8q8c3G/giphy.gif" alt="Data Science" width="400"/>
 </p>
+
 
 ---
 
