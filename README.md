@@ -2,8 +2,9 @@
 <h3 align="center">✍ I'm a student of Hanoi University of Mining and Geology (HUMG)</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fvk1gJz8q8c3G/giphy.gif](https://i.pinimg.com/736x/4e/53/8d/4e538d7be8890516eebb5f30dc0b2a85.jpg" alt="Data Science" width="400"/>
+  <img src="https://i.pinimg.com/736x/4e/53/8d/4e538d7be8890516eebb5f30dc0b2a85.jpg" alt="Data Science" width="400"/>
 </p>
+
 
 
 ---
