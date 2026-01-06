@@ -25,7 +25,7 @@
   <a href="https://www.facebook.com/nolanminh204" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/minhdtusuky/" target="_blank">
+  <a href="https://www.instagram.com/minhdn.h/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/%C4%91inh-c%C3%B4ng-minh-1ab37b317/" target="_blank">
